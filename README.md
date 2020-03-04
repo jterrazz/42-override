@@ -1,5 +1,5 @@
-# override
-> Follow-up to [rainfall](https://github.com/PapaGateau/rainfall). Security challenges focused on binaries: buffer overflows, printf insertions, shellcode injections and binary analysis, this time also featuring 64bit binaries. The project ressources (ISO and subject) are avaible in the 42 school intranet.
+# 42-override
+> Follow-up to [rainfall](https://github.com/jterrazz/42-rainfall). Security challenges focused on binaries: buffer overflows, printf insertions, shellcode injections and binary analysis, this time also featuring 64bit binaries. The project ressources (ISO and subject) are avaible in the 42 school intranet.
 
 ## Common walkthrough
 
