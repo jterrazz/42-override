@@ -1,3 +1,5 @@
+> Hey there, app enthusiasts! 👋 Ready to dive into the world of game-changing apps? At [jterrazz.com](https://jterrazz.com), I'm all about crafting useful applications and sharing the journey! Discover coding insights, self-improvement hacks, and sneak peeks of my latest projects (psst... my next app is all about leveling up in life! 🚀). Come along for the ride - you might just find the spark for your next big idea! 💡💻
+
 # 42-override
 > Follow-up to [rainfall](https://github.com/jterrazz/42-rainfall). Security challenges focused on binaries: buffer overflows, printf insertions, shellcode injections and binary analysis, this time also featuring 64bit binaries. The project ressources (ISO and subject) are avaible in the 42 school intranet.
 
