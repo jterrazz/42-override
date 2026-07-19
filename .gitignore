@@ -1,2 +1,6 @@
 .vscode
 .DS_STORE
+
+# OS
+.DS_Store
+Thumbs.db
